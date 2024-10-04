@@ -1,6 +1,7 @@
-# Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
+### Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE:                                                                       
+### DATE: 
+
 ### REGISTER NUMBER : 212221040107
 
 ### AIM:  
@@ -15,6 +16,7 @@ Cases
 5. Stop the program.
 
 ### Program:
+
 ### do…while
 ```
 def display():
@@ -34,8 +36,10 @@ def display():
 
 display()
 ```
+
 ### Output:
 ![STL 01A](https://github.com/user-attachments/assets/1cd97bdc-c6bd-4fed-9cc2-cb92601d2369)
+
  ### while
 ```
 start=input("Enter a positive value for START: ")
@@ -50,6 +54,7 @@ if start.isnumeric() and end.isnumeric():
 else:
     print("Enter a valid positive number.")
 ```
+
 ### Output:
 ![STL 01B](https://github.com/user-attachments/assets/4fe75f84-856e-491c-ae99-dc2225514e4b)
 ![STL 01 b](https://github.com/user-attachments/assets/cd745beb-1db8-4eab-a44c-8e36d78b9566)
@@ -77,8 +82,10 @@ def compare():
 
 compare()
 ```
+
 ### Output:
 ![STL 01D](https://github.com/user-attachments/assets/9125819e-35db-4250-89d9-336f4f04022b)
+
 ### switch
 ```
 def switch():
@@ -98,6 +105,7 @@ switch()
 ```
 ### Output:
 ![STL 01C](https://github.com/user-attachments/assets/4b2df571-633c-496e-a41b-3ecf0240bc3e)
+
 ### for
 ```
 def iterate():
@@ -109,5 +117,6 @@ iterate()
 ```
 ### Output:
 ![STL 01E](https://github.com/user-attachments/assets/6678bdad-8da4-49fb-a251-50f73b383b5a)
+
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
